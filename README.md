@@ -7,16 +7,16 @@ The approach used for this project is project based learning.  This amounts to b
 #### [Electricity/Electronics](electricity.md)  
  Learn the basics of electricity and some of the components we'll use through this project
 
-#### The Weather Station Hardware  
-* Choosing A Board  
+#### [The Weather Station Hardware](hardware.md)  
+* Choosing A [Board](hardware.md)  
  Various System on a Chip (SoC) options are available.
-* Collect Other Components  
+* Collect Other [Components](hardware.md)  
  We'll want to gather all of our components to start with so we have them available.
-* Assembling The Components  
+* [Assembling](assembly.md) The Components  
  Learn how to wire up the components.
 
 #### The Weather Station Software  
-* Collecting Weather Data  
+* [Collecting Weather Data](software.md)  
 What do we do with the data from our new device.
 * 3rd Party Software  
 Instead of building our own, what open source weather software options are available?

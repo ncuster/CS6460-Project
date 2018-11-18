@@ -2,8 +2,8 @@
 To do any project in electronics it is helpful to understand at least the basics of electricity.  There is considerably more to the topic here but in order to keep this project as direct as possible we'll only cover parts required to understand **and** complete this project.
 
 #### Current
+![circuit](circuit.png)
 
-TODO:  Insert CCA/royalty-free image here
 An old and popular analogy used for explaining electricity is water through a garden hose.  However for this lesson we'll use the idea of a car on a road.  How fast the car goes down the road is the *current* which is measured in miles per hour (mph).  
 The electrical equivalent to this is measuring the amount of current in *amps*.  
 
@@ -14,5 +14,6 @@ To continue with our car analogy, we need to make sure our car isn't traveling t
 There are many pieces to an even a starter electronics kit.  For this project we'll only be covering the types used in the project.  Future projects will use more advanced components and will explain those in more detail.
 
 #### Resistor
-TODO:  insert CCA/royalty-free resistor image here  
-The resistor is how we apply resistance as noted by the Resistance section noted above.  Resistors are color coded to indicate how much resistance is applied.  
+![resistor](resistor.jpg)
+
+The resistor is how we apply resistance as noted by the Resistance section noted above.  Resistors are color coded to indicate how much resistance is applied.  When wiring together the project we will indicate which resistors are needed and which color coded bars to look for. 
